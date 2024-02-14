@@ -52,4 +52,5 @@ int main(void){
     printf("d: %d\n", d);
     printf("b: %d\n", b);
 
+    return 0;
 }
